@@ -1,5 +1,5 @@
 # CRUD_React_Native
-CRUD with React Native and Firebase
+Library CRUD with React Native and Firebase
 
 ![Erro](images/1.jpg)
 
