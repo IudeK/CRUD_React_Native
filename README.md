@@ -3,7 +3,7 @@ Library CRUD with React Native and Firebase
 
 Authentication -
 Login: admin@admin.com
-Password: 123456
+| Password: 123456
 
 ![Erro](images/1.jpg)
 
